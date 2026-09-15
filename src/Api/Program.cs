@@ -1,5 +1,5 @@
-using Template.Application.Extensions;
-using Template.Infrastructure.Extensions;
+using Shop.Application.Extensions;
+using Shop.Infrastructure.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
